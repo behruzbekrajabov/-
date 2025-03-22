@@ -63,3 +63,35 @@
     align-items: center;
     gap: 5px;
 }
+.col-6{
+	display: flex;
+	background-color: white;
+}
+.span{
+	display: flex;
+	justify-content: center;
+}
+.sp1{
+	background-color: blue;
+	border: 1px solid blue;
+	border-radius: 10px;
+	padding: 5px;
+}
+.sp2{
+	background-color: rgb(30, 255, 0);
+	border: 1px solid rgb(30, 255, 0);
+	border-radius: 10px;
+	padding: 5px;
+}
+.sp3{
+	background-color: blueviolet;
+	border: 1px solid blueviolet;
+	border-radius: 10px;
+	padding: 5px;
+}
+.sp4{
+	background-color: brown;
+	border: 1px solid brown;
+	border-radius: 10px;
+	padding: 5px;
+}
